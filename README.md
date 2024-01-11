@@ -2,7 +2,7 @@
 Structure matters: analyzing videos via graph neural networks for social media platform attribution
 
 ## Accuracy on different Social Networks
-The proposed GNN uses 112 frames per video and motion vectors as node connections.The Native class corresponds to original videos. 
+The proposed GNN uses 112 frames per video and motion vectors as node connections. The Native class corresponds to original videos. 
 
 | **Class** | **Base** | **FFmpeg** | **Avidemux** |
 |-----------|:--------:|:----------:|:------------:|
