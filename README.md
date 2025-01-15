@@ -25,7 +25,7 @@ The proposed GNN uses 112 frames per video and motion vectors as node connection
 0. create enviroment to work with `conda env create -f environment.yaml`
 1. extract codec-based information for h264 videos: `use podman`
 
-- [download image](https://drive.google.com/drive/folders/1EVW1nOxWo2cdF4-dYCfcn8d6XxXyVw15?usp=sharing) "container/magicamente-mv-image.tar"
+- [download image](https://drive.google.com/drive/folders/1EVW1nOxWo2cdF4-dYCfcn8d6XxXyVw15?usp=sharing) "container/magicamente-mv-image.tar" (2.5 GB)
 
 - load image from tar (as super-user)
 ```
